@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.back{
+    background-image: url(./smit-2021-banner.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
